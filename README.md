@@ -38,13 +38,13 @@ The survey was conducted on circa 39 people and after cleaning the data gathered
 
 ![pic1](1ConsResp.png)
 
-  1. Criteria Results:
+  2. Criteria Results:
 
 ![pic2](2CriRes.png)
 
 ![pic3](3CriRes.png)
 
-  1. Alternative Results:
+  3. Alternative Results:
 
 ![pic4](4CriRes.png)
 
