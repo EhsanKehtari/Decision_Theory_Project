@@ -36,16 +36,16 @@ The survey was conducted on circa 39 people and after cleaning the data gathered
 
   1. Count of Consistent Responses:
 
-![](RackMultipart20231009-1-f05al9_html_1a5b00e128213aa2.png)
+![pic1](1ConsResp.png)
 
   1. Criteria Results:
 
-![](RackMultipart20231009-1-f05al9_html_cea35dd2ddfc689f.png)
+![pic2](2CriRes.png)
 
-![](RackMultipart20231009-1-f05al9_html_446c2d466f056c2d.png)
+![pic3](3CriRes.png)
 
   1. Alternative Results:
 
-![](RackMultipart20231009-1-f05al9_html_184dfc0f4cc96970.png)
+![pic4](4CriRes.png)
 
-![](RackMultipart20231009-1-f05al9_html_bc39c0714aec889e.png)
+![pic5](5CriRes.png)
