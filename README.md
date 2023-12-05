@@ -1,6 +1,6 @@
 # **How to achieve an effective government?**
 
-**Note:** This project was done during the height of the "Woman, Life, Freedom" movement in Iran, as the group capstone project to the course "Decision Theory". Since it was a very sensitive issue in Iran with the potential of grave repercussions and for the sake of our own and the participants' safety, the scope of this project was very limited.
+**Note:** This project was done during the height of the "Woman, Life, Freedom" movement in Iran, as the group capstone project to the course "Decision Theory". Since it was a very sensitive issue in Iran with the potential of grave repercussions, and for the sake of our own and the participants' safety, the scope of this project was very limited.
 
 In 1789, when Louis XVI learned of the storming of the Bastille prison by angry French people, he asked, "Is this a revolt?" and Duke de La Rochefoucauld-Liancourt replied, "No, Sire, it is a revolution!"
 
